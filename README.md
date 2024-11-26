@@ -1,4 +1,4 @@
-# dataset-LG-MJ1-INR-18650-cell-characterization
+# Dataset LG MJ1 INR 18650 Cell Characterization
 Dataset for the electro thermal characterization of the LG MJ1 INR 18650 3500 mAh cell
 
 
